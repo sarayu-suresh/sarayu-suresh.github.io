@@ -262,7 +262,7 @@ bootstrap.min.css:5
 
 .baner-content .text-content p {
 	color: #fff;
-	font-size: 14px;
+	font-size: 17px;
 	line-height: 24px;
 	padding: 0px 25%;
 }
@@ -278,6 +278,7 @@ bootstrap.min.css:5
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-attachment: fixed;
+	width:100%;
 }
 
 #about .section-heading {
@@ -302,7 +303,7 @@ bootstrap.min.css:5
 #about .service-item h4 {
 	margin-bottom: 30px;
 	margin-top: 45px;
-	font-size: 17px;
+	font-size: 25px;
 	font-weight: 500;
 	color: #fff;
 	letter-spacing: 1px;
@@ -317,6 +318,7 @@ bootstrap.min.css:5
 #about .service-item p {
 	color: #fff;
 	margin-top: 30px;
+	font-size:20px;
 }
 
 #about .service-item .primary-blue-button {
@@ -390,6 +392,14 @@ bootstrap.min.css:5
 	text-transform: uppercase;
 	font-weight: 700;
 	color: #17a2e3;
+	letter-spacing: 1px;
+}
+
+#portfolio .section-heading h3 {
+	margin-top: 0px;
+	font-size: 20px;
+	font-weight: 700;
+	color: white;
 	letter-spacing: 1px;
 }
 
@@ -729,7 +739,7 @@ footer .location ul li:first-child {
 
 footer .contact-info h4 {
 	margin-top: 0px;
-	font-size: 13px;
+	font-size: 17px;
 	font-weight: 500;
 	color: #fff;
 	text-transform: uppercase;
@@ -738,7 +748,7 @@ footer .contact-info h4 {
 }
 
 footer .contact-info ul li {
-	font-size: 13px;
+	font-size: 15px;
 	color: #fff;
 	display: inline-block;
 	line-height: 24px;
@@ -756,7 +766,7 @@ footer .contact-info ul li em {
 
 footer .connect-us h4 {
 	margin-top: 0px;
-	font-size: 13px;
+	font-size: 17px;
 	font-weight: 500;
 	color: #fff;
 	text-transform: uppercase;
@@ -771,9 +781,9 @@ footer .connect-us ul li {
 
 footer .connect-us ul li a {
 	display: inline-block;
-	width: 28px;
-	height: 28px;
-	line-height: 28px;
+	width: 35px;
+	height: 35px;
+	line-height: 35px;
 	text-align: center;
 	background-color: #fff;
 	border-radius: 50%;
